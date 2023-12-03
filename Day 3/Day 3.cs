@@ -22,15 +22,15 @@ namespace Day3
         {
             public int Number { get; set; }
             public string Symbol { get; set; }
-            public int SymbolX { get; set; }
-            public int SymbolY { get; set; }
+            public int X { get; set; }
+            public int Y { get; set; }
 
-            public Part(int number, string symbol, int symbolx, int symboly)
+            public Part(int number, string symbol, int x, int y)
             {
                 Number = number;
                 Symbol = symbol;
-                SymbolX = symbolx;
-                SymbolY = symboly;
+                X = x;
+                Y = y;
             }
         }
         record struct Gear
@@ -45,147 +45,65 @@ namespace Day3
             }
         }
 
+        public bool CheckSymbol(List<string> symbols, List<string> input, int x, int y)
+        {
+            try
+            {
+                if (symbols.Contains(input[y].Substring(x, 1)))
+                    return true;
+            }
+            catch (Exception e)
+            { }
+            return false;
+        }
+
         [Workflow]
         public void Execute(bool debug)
         {
             string path;
             //debug = true;
             if (debug.Equals(true))
-            {
                 path = "Test.txt";
-            }
             else
-            {
                 path = "Input.txt";
-            }
+
             var input = System.IO.File.ReadAllLines(path).ToList();
             var symbols = Regex.Matches(System.IO.File.ReadAllText(path), "[^.1234567890\\n\\r]").Select(x => x.Value).Distinct().ToList();
-            var partNums = new List<int> { };
+            var checkPosition = new List<int[]> {
+                new int[] {-1,-1}, new int[] {-1,0}, new int[] {-1,1},
+                new int[] {0,-1},                    new int[] {0,1},
+                new int[] {1,-1},  new int[] {1,0},  new int[] {1,1}
+            };
             var partList = new List<Part> { };
 
             foreach (var line in input)
             {
-                var matches = Regex.Matches(line, "\\d+");
-                foreach (Match m in matches)
+                foreach (Match m in Regex.Matches(line, "\\d+"))
                 {
                     var touchSymbol = false;
                     for (int i = 0; i < m.Length; i++)
                     {
-                        try
+                        foreach (var pos in checkPosition)
                         {
-                            if (symbols.Contains(line.Substring(m.Index + i - 1, 1)))  //check left
+                            if (CheckSymbol(symbols, input, m.Index + i + pos[0], input.IndexOf(line) + pos[1]))
                             {
                                 touchSymbol = true;
-                                partList.Add(new Part(int.Parse(m.Value), line.Substring(m.Index + i - 1, 1), m.Index + i - 1, input.IndexOf(line)));
+                                partList.Add(new Part(int.Parse(m.Value), input[input.IndexOf(line) + pos[1]].Substring(m.Index + i + pos[0], 1), m.Index + i + pos[0], input.IndexOf(line) + pos[1]));
                                 break;
                             }
                         }
-                        catch (Exception e)
-                        {
-                        }
-                        try
-                        {
-                            if (symbols.Contains(line.Substring(m.Index + i + 1, 1)))  //check right
-                            {
-                                touchSymbol = true;
-                                partList.Add(new Part(int.Parse(m.Value), line.Substring(m.Index + i + 1, 1), m.Index + i + 1, input.IndexOf(line)));
-                                break;
-                            }
-                        }
-                        catch (Exception e)
-                        {
-                        }
-                        try
-                        {
-                            if (symbols.Contains(input[input.IndexOf(line) - 1].Substring(m.Index + i, 1)))  //check up
-                            {
-                                touchSymbol = true;
-                                partList.Add(new Part(int.Parse(m.Value), input[input.IndexOf(line) - 1].Substring(m.Index + i, 1), m.Index + i, input.IndexOf(line) - 1));
-                                break;
-                            }
-                        }
-                        catch (Exception e)
-                        {
-                        }
-                        try
-                        {
-                            if (symbols.Contains(input[input.IndexOf(line) - 1].Substring(m.Index + i - 1, 1)))  //check up left
-                            {
-                                touchSymbol = true;
-                                partList.Add(new Part(int.Parse(m.Value), input[input.IndexOf(line) - 1].Substring(m.Index + i - 1, 1), m.Index + i - 1, input.IndexOf(line) - 1));
-                                break;
-                            }
-                        }
-                        catch (Exception e)
-                        {
-                        }
-                        try
-                        {
-                            if (symbols.Contains(input[input.IndexOf(line) - 1].Substring(m.Index + i + 1, 1)))  //check up right
-                            {
-                                touchSymbol = true;
-                                partList.Add(new Part(int.Parse(m.Value), input[input.IndexOf(line) - 1].Substring(m.Index + i + 1, 1), m.Index + i + 1, input.IndexOf(line) - 1));
-                                break;
-                            }
-                        }
-                        catch (Exception e)
-                        {
-                        }
-                        try
-                        {
-                            if (symbols.Contains(input[input.IndexOf(line) + 1].Substring(m.Index + i, 1)))  //check down
-                            {
-                                touchSymbol = true;
-                                partList.Add(new Part(int.Parse(m.Value), input[input.IndexOf(line) + 1].Substring(m.Index + i, 1), m.Index + i, input.IndexOf(line) + 1));
-                                break;
-                            }
-                        }
-                        catch (Exception e)
-                        {
-                        }
-                        try
-                        {
-                            if (symbols.Contains(input[input.IndexOf(line) + 1].Substring(m.Index + i - 1, 1)))  //check down left
-                            {
-                                touchSymbol = true;
-                                partList.Add(new Part(int.Parse(m.Value), input[input.IndexOf(line) + 1].Substring(m.Index + i - 1, 1), m.Index + i - 1, input.IndexOf(line) + 1));
-                                break;
-                            }
-                        }
-                        catch (Exception e)
-                        {
-                        }
-                        try
-                        {
-                            if (symbols.Contains(input[input.IndexOf(line) + 1].Substring(m.Index + i + 1, 1)))  //check down right
-                            {
-                                touchSymbol = true;
-                                partList.Add(new Part(int.Parse(m.Value), input[input.IndexOf(line) + 1].Substring(m.Index + i + 1, 1), m.Index + i + 1, input.IndexOf(line) + 1));
-                                break;
-                            }
-                        }
-                        catch (Exception e)
-                        {
-                        }
+                        if (touchSymbol)
+                            break;
                     }
-                    if (touchSymbol)
-                        partNums.Add(int.Parse(m.Value));
                 }
             }
-            Log(partNums.Sum().ToString());
 
-            var gearList = new List<Gear> { };
-            foreach (var part in partList.Where(x => x.Symbol.Equals("*")))
-            {
-                gearList.Add(new Gear(part.SymbolX, part.SymbolY));
-            }
-            var gearSum = 0;
-            foreach (var gear in gearList.Distinct())
-            {
-                if (partList.Where(p => p.SymbolX.Equals(gear.X) && p.SymbolY.Equals(gear.Y)).Count().Equals(2))
-                    gearSum = gearSum + (partList.Where(p => p.SymbolX.Equals(gear.X) && p.SymbolY.Equals(gear.Y)).Select(p => p.Number).First() * partList.Where(p => p.SymbolX.Equals(gear.X) && p.SymbolY.Equals(gear.Y)).Select(p => p.Number).Last());
-            }
-            Log(gearSum.ToString());
+            Log(partList.Sum(p => p.Number).ToString()); //Part 1
+
+            var gearList = partList.Where(p => p.Symbol.Equals("*")).Select(g => new Gear(g.X, g.Y)).Distinct().Where(g => partList.Where(p => p.X.Equals(g.X) && p.Y.Equals(g.Y)).Count().Equals(2)).ToList();
+            var gearSum = gearList.Sum(g => partList.Where(p => p.X.Equals(g.X) && p.Y.Equals(g.Y)).Select(n => n.Number).First() * partList.Where(p => p.X.Equals(g.X) && p.Y.Equals(g.Y)).Select(n => n.Number).Last());
+
+            Log(gearSum.ToString()); //Part 2
         }
     }
 }
