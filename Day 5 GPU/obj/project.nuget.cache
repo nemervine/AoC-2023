@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2iYGvtAu0DXG/zQf/XucPh27NBJcQkv96m7n/kKQgogssofMrvNe/1Ok+y4vFxizhKpGi+3N4S8Q9ACQ9NPaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicole\\source\\repos\\AoC 2023\\Day 5 GPU\\Day 5 GPU.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicole\\.nuget\\packages\\ilgpu\\1.5.1\\ilgpu.1.5.1.nupkg.sha512",
+    "C:\\Users\\Nicole\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
+  ],
+  "logs": []
+}

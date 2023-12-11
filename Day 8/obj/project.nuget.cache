@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jtZs0ERApMjwY4PQQv0t/CDrYIycgg56l944XGg2z0Lsf//qZmx79k9pZgusHXmNhYcXo69gJQx3RHayxobZdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicole\\source\\repos\\AoC 2023\\Day 8\\Day 8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicole\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
+  ],
+  "logs": []
+}

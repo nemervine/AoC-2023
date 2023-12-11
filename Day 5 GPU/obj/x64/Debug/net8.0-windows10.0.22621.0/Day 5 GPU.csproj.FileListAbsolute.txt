@@ -1,0 +1,22 @@
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Debug\net8.0-windows10.0.22621.0\Input.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Debug\net8.0-windows10.0.22621.0\Test.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.exe
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.deps.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.runtimeconfig.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.csproj.AssemblyReference.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.AssemblyInfoInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.AssemblyInfo.cs
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.sourcelink.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.csproj.CopyComplete
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\refint\Day 5 GPU.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\Day 5 GPU.genruntimeconfig.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Debug\net8.0-windows10.0.22621.0\ref\Day 5 GPU.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Debug\net8.0-windows10.0.22621.0\ILGPU.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "437zX61MmjeUaJnqrRnMzEjEfaT4lhqsdMmXe773KDkz87jVcc5Q4tS6bLpIdpNRe/kuVUNLMyG/xb766E+zSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicole\\source\\repos\\AoC 2023\\Day 5\\Day5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicole\\.nuget\\packages\\computesharp\\2.1.0\\computesharp.2.1.0.nupkg.sha512",
+    "C:\\Users\\Nicole\\.nuget\\packages\\computesharp.core\\2.1.0\\computesharp.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Nicole\\.nuget\\packages\\terrafx.interop.windows\\10.0.22621.2\\terrafx.interop.windows.10.0.22621.2.nupkg.sha512",
+    "C:\\Users\\Nicole\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
+  ],
+  "logs": []
+}

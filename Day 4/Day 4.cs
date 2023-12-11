@@ -32,7 +32,6 @@ namespace Day4
         {
             //debug = true;
             string path = debug ? "Test.txt" : "Input.txt";
-
             var input = System.IO.File.ReadAllLines(path).ToList();
 
             var cardsList = input.Select(x => new Card(x)).ToList();

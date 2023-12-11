@@ -1,0 +1,17 @@
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\bin\Debug\net8.0\Input.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\bin\Debug\net8.0\Test.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\bin\Debug\net8.0\Day 7.exe
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\bin\Debug\net8.0\Day 7.deps.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\bin\Debug\net8.0\Day 7.runtimeconfig.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\bin\Debug\net8.0\Day 7.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\bin\Debug\net8.0\Day 7.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\obj\Debug\net8.0\Day 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\obj\Debug\net8.0\Day 7.AssemblyInfoInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\obj\Debug\net8.0\Day 7.AssemblyInfo.cs
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\obj\Debug\net8.0\Day 7.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\obj\Debug\net8.0\Day 7.sourcelink.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\obj\Debug\net8.0\Day 7.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\obj\Debug\net8.0\refint\Day 7.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\obj\Debug\net8.0\Day 7.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\obj\Debug\net8.0\Day 7.genruntimeconfig.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 7\obj\Debug\net8.0\ref\Day 7.dll

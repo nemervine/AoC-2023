@@ -1,0 +1,18 @@
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\bin\Debug\net8.0\Day 8.exe
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\bin\Debug\net8.0\Day 8.deps.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\bin\Debug\net8.0\Day 8.runtimeconfig.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\bin\Debug\net8.0\Day 8.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\bin\Debug\net8.0\Day 8.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\obj\Debug\net8.0\Day 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\obj\Debug\net8.0\Day 8.AssemblyInfoInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\obj\Debug\net8.0\Day 8.AssemblyInfo.cs
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\obj\Debug\net8.0\Day 8.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\obj\Debug\net8.0\Day 8.sourcelink.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\obj\Debug\net8.0\Day 8.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\obj\Debug\net8.0\refint\Day 8.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\obj\Debug\net8.0\Day 8.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\obj\Debug\net8.0\Day 8.genruntimeconfig.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\obj\Debug\net8.0\ref\Day 8.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\bin\Debug\net8.0\Input.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\bin\Debug\net8.0\Test.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day 8\bin\Debug\net8.0\Test2.txt

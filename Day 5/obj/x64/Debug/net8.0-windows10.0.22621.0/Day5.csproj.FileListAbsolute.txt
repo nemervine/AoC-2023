@@ -1,0 +1,39 @@
+C:\Users\Nicole\source\repos\AoC 2023\Day5\bin\x64\Debug\net8.0-windows10.0.22621.0\Input.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day5\bin\x64\Debug\net8.0-windows10.0.22621.0\Test.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day5\bin\x64\Debug\net8.0-windows10.0.22621.0\Day5.exe
+C:\Users\Nicole\source\repos\AoC 2023\Day5\bin\x64\Debug\net8.0-windows10.0.22621.0\Day5.deps.json
+C:\Users\Nicole\source\repos\AoC 2023\Day5\bin\x64\Debug\net8.0-windows10.0.22621.0\Day5.runtimeconfig.json
+C:\Users\Nicole\source\repos\AoC 2023\Day5\bin\x64\Debug\net8.0-windows10.0.22621.0\Day5.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day5\bin\x64\Debug\net8.0-windows10.0.22621.0\Day5.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day5\bin\x64\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day5\bin\x64\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\source\repos\AoC 2023\Day5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.AssemblyInfoInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.AssemblyInfo.cs
+C:\Users\Nicole\source\repos\AoC 2023\Day5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.csproj.CopyComplete
+C:\Users\Nicole\source\repos\AoC 2023\Day5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day5\obj\x64\Debug\net8.0-windows10.0.22621.0\refint\Day5.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.genruntimeconfig.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day5\obj\x64\Debug\net8.0-windows10.0.22621.0\ref\Day5.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\bin\x64\Debug\net8.0-windows10.0.22621.0\Input.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\bin\x64\Debug\net8.0-windows10.0.22621.0\Test.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\bin\x64\Debug\net8.0-windows10.0.22621.0\Day5.exe
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\bin\x64\Debug\net8.0-windows10.0.22621.0\Day5.deps.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\bin\x64\Debug\net8.0-windows10.0.22621.0\Day5.runtimeconfig.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\bin\x64\Debug\net8.0-windows10.0.22621.0\Day5.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\bin\x64\Debug\net8.0-windows10.0.22621.0\Day5.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\bin\x64\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\bin\x64\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.AssemblyInfoInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.AssemblyInfo.cs
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.sourcelink.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.csproj.CopyComplete
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\refint\Day5.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\Day5.genruntimeconfig.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5\obj\x64\Debug\net8.0-windows10.0.22621.0\ref\Day5.dll

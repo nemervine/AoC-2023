@@ -1,0 +1,27 @@
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\Input.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\Test.txt
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\Day 5 GPU.exe
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\Day 5 GPU.deps.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\Day 5 GPU.runtimeconfig.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\Day 5 GPU.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\Day 5 GPU.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\ComputeSharp.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\ComputeSharp.Core.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\ComputeSharp.Dynamic.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\TerraFX.Interop.Windows.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\dxcompiler.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\runtimes\win-arm64\native\dxil.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\dxcompiler.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\bin\x64\Release\net8.0-windows\runtimes\win-x64\native\dxil.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\Day 5 GPU.csproj.AssemblyReference.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\Day 5 GPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\Day 5 GPU.AssemblyInfoInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\Day 5 GPU.AssemblyInfo.cs
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\Day 5 GPU.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\Day 5 GPU.sourcelink.json
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\Day 5 GPU.csproj.CopyComplete
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\Day 5 GPU.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\refint\Day 5 GPU.dll
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\Day 5 GPU.pdb
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\Day 5 GPU.genruntimeconfig.cache
+C:\Users\Nicole\source\repos\AoC 2023\Day 5 GPU\obj\x64\Release\net8.0-windows\ref\Day 5 GPU.dll
